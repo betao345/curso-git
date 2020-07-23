@@ -8,12 +8,8 @@ uses
 
 type
   TForm1 = class(TForm)
-    Edit1: TEdit;
-    Memo1: TMemo;
     Button1: TButton;
-    Button2: TButton;
-    RadioButton1: TRadioButton;
-    ListBox1: TListBox;
+    Memo1: TMemo;
   private
     { Private declaratio
     Label1: TLabel;ns }
