@@ -7,8 +7,8 @@
     <Transaction>2019/12/14 08:16:55.000.002,=C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/06/29 13:47:24.000.121,=C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/07/22 08:43:49.000.567,=C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/07/22 09:30:27.000.091,C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\xampp\htdocs\curso git\Nova pasta\Unit1.pas</Transaction>
-    <Transaction>2020/07/22 09:30:27.000.091,C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\xampp\htdocs\curso git\Nova pasta\Unit1.dfm</Transaction>
-    <Transaction>2020/07/22 09:30:29.000.066,C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\xampp\htdocs\curso git\Nova pasta\Project1.dproj</Transaction>
+    <Transaction>2020/07/22 09:30:27.000.091,C:\xampp\htdocs\curso git\Nova pasta\Unit1.dfm=C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/07/22 09:30:27.000.091,C:\xampp\htdocs\curso git\Nova pasta\Unit1.pas=C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/22 09:30:29.000.066,C:\xampp\htdocs\curso git\Nova pasta\Project1.dproj=C:\Users\Luiz Alberto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
